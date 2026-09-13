@@ -13,4 +13,4 @@ build an interactive tool where people can design their dream workspace and then
 - Create interactive tools using Nextjs is overengineering, we can optimize in production with native JS
 - For styling we can using native css instead tailwindcss
 - if this page exist in Main website it was killing client SEO
-- This is build by vibecoders for real without AI and proper Assets its took 1-2 Weeks development, without business features like checkout and payment.
+- vibecoders for real without AI and proper Assets its took 1-2 Weeks development, without business features like checkout and payment.
